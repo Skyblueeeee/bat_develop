@@ -25,12 +25,12 @@
 工时计划构建完成后会存放在fitow_worksheet_1.0目录
 
 ![1668135856244](envs\img\1668135856244.png)
-![image](https://github.com/Skyblueeeee/bat_develop/blob/main/fitow_worksheet_1.0/envs/img/1668135624313.png)
+![image](https://github.com/Skyblueeeee/bat_develop/blob/main/fitow_worksheet_1.0/envs/img/1668135856244.png)
 
 三、个性化修改
 
 1、进入fitow_worksheet_1.0\src目录，打开fitow_worksheet.py文件，可对个性化修改区域进行改动，请注意保持本结构格式
 
 ![1668135624313](envs\img\1668135624313.png)
-![image](https://github.com/Skyblueeeee/bat_develop/blob/main/fitow_worksheet_1.0/envs/img/1668135856244.png)
+![image](https://github.com/Skyblueeeee/bat_develop/blob/main/fitow_worksheet_1.0/envs/img/1668135624313.png)
 
